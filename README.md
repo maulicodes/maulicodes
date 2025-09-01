@@ -68,7 +68,7 @@
 ### ![Image](https://github.com/user-attachments/assets/54172ad8-c9a6-42b3-a695-4237c7a5e567) Connect with Me ![Image](https://github.com/user-attachments/assets/54172ad8-c9a6-42b3-a695-4237c7a5e567)
 ![Image](https://github.com/user-attachments/assets/497e35dc-4eb4-4d32-a87c-a5fec39afffe)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/mauli](https://www.linkedin.com/in/mauli-chopra-516185346/](https://www.linkedin.com/in/mauli-chopra-516185346/)))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauli-chopra-516185346/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maulichopra707@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/maulicodes)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mauli707)  
