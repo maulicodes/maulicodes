@@ -13,6 +13,7 @@
 - 🌷 Currently studying **ECE** (2nd Year)   
 - 🪩 Inclinations : Coding,Semiconductors,Cp,Full-Stack and LLMs.
 - 🧸 Fun fact : Aesthetics pump up my creativity (yes,even in GITHUB READMEs!!) (˶ᵔ ᵕ ᵔ˶)
+- ☃️ I use debian and vim.
 
 ![Image](https://github.com/user-attachments/assets/22568403-18a7-45db-aa84-1fd534bb0db4)
 <!-- Tech Stack -->
@@ -28,6 +29,7 @@
 - 🌸 **C++ & DSA grind**  
 - 💡 **Electronics**
 - 🐻‍❄️ **Full-Stack**
+- 🐨 **Golang**
 
 ![Image](https://github.com/user-attachments/assets/22568403-18a7-45db-aa84-1fd534bb0db4)
 
