@@ -5,7 +5,6 @@
 
 <code style="
 background-color:black;
-color:white;
 padding:12px 18px;
 border-radius:8px;
 display:inline-block;
