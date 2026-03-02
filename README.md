@@ -1,3 +1,4 @@
 <p align="center">
-<img src="[https://github.com/maulicodes/maulicodes/issues/15#issue-4012858913](https://private-user-images.githubusercontent.com/218507834/557089673-e9b1e21c-64d5-47b4-b054-40ec1005f297.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0ODEyMzIsIm5iZiI6MTc3MjQ4MDkzMiwicGF0aCI6Ii8yMTg1MDc4MzQvNTU3MDg5NjczLWU5YjFlMjFjLTY0ZDUtNDdiNC1iMDU0LTQwZWMxMDA1ZjI5Ny5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQxOTQ4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZjEzMDJmYmVmMTk2NWVjOTRiZTBhYWZmMWMwZDBmMjI1YzNjMWY4MDM1MDU0MDc0MjRkOTBmYTQ0ZjVmMGVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CC6yeYhliFVzKYZqmQMa7bTu3JGznc7ITD2lZyyiZ_c)" width="500"/>
+<img width="455" height="303" alt="image" src="https://github.com/user-attachments/assets/14bab2fa-2195-4903-8b94-662e62b50f86" />
+" width="500"/>
 </p>
