@@ -17,11 +17,6 @@ text-align:left;
 > System: Debian  
 > Editor: Vim  
 > Language: Go  
-
-> Contact  
-mail: maulichopra707@gmail.com  
-linkedIn: [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/mauli-chopra-516185346/)
-
 </pre>
 
 </div>
