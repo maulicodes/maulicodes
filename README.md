@@ -3,10 +3,11 @@
 
 ![Image](https://github.com/user-attachments/assets/e9b1e21c-64d5-47b4-b054-40ec1005f297)
 
-<code style="
-background-color:black;
-padding:12px 18px;
-border-radius:8px;
+<pre style="
+background-color:#000000;
+color:#ffffff;
+padding:20px;
+border-radius:10px;
 display:inline-block;
 font-family: monospace;
 ">
