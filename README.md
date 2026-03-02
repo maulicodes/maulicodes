@@ -13,7 +13,6 @@ text-align:left;
 ">
 
 > i code to enchant the deities of kernels
-
 > System: Debian  
 > Editor: Vim  
 > Language: Go  
