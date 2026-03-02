@@ -12,7 +12,7 @@ font-family: monospace;
 text-align:left;
 ">
 
-> i enchant the deities of kernels with the code i pen.
+> i code to enchant the deities of kernels in operating systems
 
 > System: Debian  
 > Editor: Vim  
