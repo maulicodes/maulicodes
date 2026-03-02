@@ -13,8 +13,8 @@ font-family: monospace;
 ">
 
 > i enchant the deities of kernels with the code I pen.  
->  
-> i use Debian, Vim and Go  
+> i use Debian, Vim and Go 
+> 
 
 </code>
 
