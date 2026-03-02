@@ -1,3 +1,3 @@
 <p align="center">
-<img src="PASTE_LINK_HERE" width="500"/>
+<img src="https://github.com/maulicodes/maulicodes/issues/15#issue-4012858913" width="500"/>
 </p>
