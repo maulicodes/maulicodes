@@ -13,9 +13,9 @@ text-align:left;
 ">
 
 > i code to enchant the deities of kernels
-> system: Debian  
-> editor: Vim  
-> language: Go  
+> system: debian  
+> editor: vim  
+> language: go  
 </pre>
 
 </div>
